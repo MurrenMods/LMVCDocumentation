@@ -2,5 +2,5 @@
 Head over to the [Wiki Page](https://github.com/MurrenMods/LMVCDocumentation/wiki)!
 
 # All Wikis:
-[Ini Documentation](https://github.com/MurrenMods/IniDocumentation)
-[Lightmap/Vertex Color Documentation](https://github.com/MurrenMods/LMVCDocumentation)
+[Ini Documentation](https://github.com/MurrenMods/IniDocumentation)<br>
+[Lightmap/Vertex Color Documentation](https://github.com/MurrenMods/LMVCDocumentation)<br>
